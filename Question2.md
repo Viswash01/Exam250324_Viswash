@@ -1,6 +1,6 @@
 # Question 2
 
-A user reports that their computer is running very slowly.
+### A user reports that their computer is running very slowly.
 
 ## 1 website:
 
