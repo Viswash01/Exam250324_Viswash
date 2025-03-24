@@ -1,0 +1,51 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\work> echo test one> one.txt
+
+C:\work>echo test two > two.txt
+
+C:\work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-C9F4
+
+ Directory of C:\work
+
+03/24/2025  01:45 PM    <DIR>          .
+03/19/2025  12:44 PM               847 Console-log5_250318_viswash.txt
+03/24/2025  01:42 PM                10 one.txt
+03/18/2025  01:25 PM               349 PC202-24.txt
+03/24/2025  01:43 PM    <DIR>          text1
+03/24/2025  01:45 PM                11 two.txt
+               4 File(s)          1,217 bytes
+               2 Dir(s)  855,192,838,144 bytes free
+
+C:\work>echo test three > three.txt
+
+C:\work>echo test four > four.txt
+
+C:\work>echo test five > five.txt
+
+C:\work>echo test six > six.txt
+
+C:\work>echo test six > seven.txt
+
+C:\work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-C9F4
+
+ Directory of C:\work
+
+03/24/2025  01:48 PM    <DIR>          .
+03/19/2025  12:44 PM               847 Console-log5_250318_viswash.txt
+03/24/2025  01:47 PM                12 five.txt
+03/24/2025  01:47 PM                12 four.txt
+03/24/2025  01:42 PM                10 one.txt
+03/18/2025  01:25 PM               349 PC202-24.txt
+03/24/2025  01:48 PM                11 seven.txt
+03/24/2025  01:48 PM                11 six.txt
+03/24/2025  01:43 PM    <DIR>          text1
+03/24/2025  01:47 PM                13 three.txt
+03/24/2025  01:45 PM                11 two.txt
+               9 File(s)          1,276 bytes
+               2 Dir(s)  855,192,047,616 bytes free
